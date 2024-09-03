@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Uma Sivakumar!</h1>
 <h3 align="center">Prospective BSMS in Computer Science Yale'27 | Love exploring ML, Web Dev, and Gam Dev Tech</h3>
