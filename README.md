@@ -1,4 +1,4 @@
-[![MasterHead](https://www.tumblr.com/valenberg/142420848259/animated-banner-artwork-for-the-great-rolly?source=share)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F691584086550467989%2F&psig=AOvVaw2fBOnGPySeI9SXZEExNdl4&ust=1725422716633000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCODPvtPypYgDFQAAAAAdAAAAABCAAQ)]
 
 <h1 align="center">Hi 👋, I'm Uma Sivakumar!</h1>
 <h3 align="center">Prospective BSMS in Computer Science Yale'27 | Love exploring ML, Web Dev, and Gam Dev Tech</h3>
