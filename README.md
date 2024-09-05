@@ -1,7 +1,7 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Uma Sivakumar!</h1>
-<h3 align="center">Prospective BSMS in Computer Science Yale'27 | Love exploring ML, Web Dev, and Gam Dev Tech</h3>
+<h3 align="center">Prospective BSMS in Computer Science Yale'27 | Love exploring ML, Web Dev, and Game Dev Tech</h3>
 
 - 🔭 I’m currently working on **a Deep Learning engine to analyze hurricane damage in my home town**
 
