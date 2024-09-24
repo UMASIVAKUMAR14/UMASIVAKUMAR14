@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uma Sivakumar!</h1>
 <h3 align="center">BSMS in Computer Science Yale'27 | Loves to explore ML, Web Dev, and Game Dev Tech</h3>
 
-- 🔭 I’m currently working on **a Deep Learning engine to analyze hurricane damage in my home town**
+- 🔭 I’m currently working on **a deep learning engine to analyze hurricane damage in my home town**
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Blender, and so much more :)**
 
