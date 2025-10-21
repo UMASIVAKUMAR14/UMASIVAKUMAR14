@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new features in React.js and TypeScript**
 
-- 💬 Ask me about **game development with C# in the Unity Engine**
+- 💬 Ask me about **model context protocol servers**
 
 - 🌎 This year I'll be **contributing to open source**
 
