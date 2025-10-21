@@ -11,7 +11,7 @@
 
 - 🌎 This year I'll be **contributing to open source**
 
-- - 🎥 Many of my projects are available at [https://umasivakumar14.github.io/](https://umasivakumar14.github.io/)
+- 🎥 Many of my projects are available at [https://umasivakumar14.github.io/](https://umasivakumar14.github.io/)
 
 - 📫 Connect and message me on [https://www.linkedin.com/in/uma-sivakumar-756793216/](https://www.linkedin.com/in/uma-sivakumar-756793216/)
 
