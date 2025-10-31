@@ -1,7 +1,7 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Uma Sivakumar</h1>
-<h3 align="center">BSMS in Computer Science Yale'27 | Loves to explore ML, Web Dev, and Game Dev Tech</h3>
+<h3 align="center">BSMS in Computer Science Yale'27 | Loves to explore AI, Robotics, and Graphics</h3>
 
 - 🔭 I’m currently working on **research with Graph Neural Networks at Yale's Inquisitive Robotics Lab**
 
